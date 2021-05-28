@@ -2,6 +2,8 @@
 
 echo "Launching lidar-rosbag-docker:latest"
 
+mkdir -p ${HOME}/shared_dir
+
 docker run \
     -it \
     --rm \
