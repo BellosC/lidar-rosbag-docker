@@ -22,3 +22,7 @@
 6. <kbd>Ctrl</kbd> + <kbd>C</kbd>
 
 7. Get your juicy bagfile at `$HOME/shared_dir`.
+
+## Related
+
+- [BellosC/horizon_highway_slam](https://github.com/BellosC/horizon_highway_slam): Apply SLAM to rosbag and get a 3D model from `.pcd` files.
